@@ -1,6 +1,6 @@
 {
   "name": "homebridge-http-request-curtain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTTP curtain or window blinds for Homebridge",
   "license": "MIT",
   "keywords": [
@@ -14,7 +14,8 @@
     "url": "https://github.com/BossaGroove/homebridge-http-request-curtain/issues"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=14",
+    "homebridge": ">=0.4.0"
   },
   "author": {
     "name": "BossaGroove"
